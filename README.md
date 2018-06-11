@@ -15,6 +15,12 @@ _A webpage to create a list of places you have been. Each destination will be an
 * _Fill in the blank and submit_
 * _Click on the destination to display the content_
 
+## Spec
+
+_Collect input information of location, landmarks, time of year, and notes_
+_Store input data in a destination list_
+_Click on the destination to display informations_
+
 ## Support and contact details
 
 _Please contact Jean84646@gmail.com  and swatiranjan0111@gmail.com for any issues, questions, ideas, or concerns._
